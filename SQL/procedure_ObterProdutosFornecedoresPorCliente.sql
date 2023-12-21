@@ -1,5 +1,3 @@
--- Criação da Procedure
-
 CREATE PROCEDURE ObterProdutosFornecedoresPorCliente
     @clienteId INT
 AS
