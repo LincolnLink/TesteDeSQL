@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TesteSQL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+90072e790074175a42165352833bc8dbf77bfcc0")]
 [assembly: System.Reflection.AssemblyProductAttribute("TesteSQL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TesteSQL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
